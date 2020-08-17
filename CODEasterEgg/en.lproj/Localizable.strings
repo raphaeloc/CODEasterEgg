@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  CODEasterEgg
+
+  Created by Raphael Oliveira Chagas on 14/08/20.
+  Copyright © 2020 Raphael Oliveira Chagas. All rights reserved.
+*/
+
+"default.withoutData" = "Incomplete data";
+"default.symbols" = "Symbols";
+"default.nose" = "N: Nose";
+"default.house" = "H: House";
+"default.japaneseSymbol" = "J: Japanese symbol";
+"default.clearAll" = "clear all";
+"placeHolder.firstCode" = "first code";
+"placeHolder.second" = "second code";
+"placeHolder.third" = "third code";
